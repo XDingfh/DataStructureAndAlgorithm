@@ -27,6 +27,7 @@ T(n) ，它表示代码执行的时间；n 表示数据规模的大小；f(n) �
  &nbsp; &nbsp;4）多个规模求加法：比如方法有两个参数控制两个循环的次数，那么这时就取二者复杂度相</br>
   </br>
 几种常见时间复杂度实例分析</br>
+<img src='https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/Analysis2.png'>
 ![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/Analysis1.png)
 
 对于罗列的复杂度量级，我们可以分为两类，多项式量级和非多项式量级。其中非多项式量级只有两个：O(2^n) 和 O(n!).</br>
