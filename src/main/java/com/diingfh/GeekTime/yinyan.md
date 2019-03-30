@@ -7,7 +7,7 @@
 想要学习数据结构与算法，首先要掌握一个数据结构与算法中最重要的概念——复杂度分析。</br>
 数据机构和算法解决的是如何更省、更快地存储和处理数据的问题，因此，我们就需要一个考量效率和资源消耗的方法，这就是复杂度分析。如果你只掌握了数据结构和算法的特点、用法，但是没有学会复杂度分析，那就相当于只知道操作口诀，而没掌握心法。只有把心法了然于胸，才能做到无招胜有招。</br>
 数据结构和算法的知识点:</br>
-![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/clipboard.png)
+![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/clipboard.png)
 总结20个最常用的、最基础的数据结构与算法，不管是应对面试还是工作需要，只要集中精力逐一攻克这20个知识点就足够了。</br>
 这里面有10个数据结构：<b style="color=red">数组、链表、栈、队列、散列表、二叉树、堆、跳表、图、Trie树</b>；</br>
 10个算法：<b style="color=red">递归、排序、二分查找、搜索、哈希算法、贪心算法、分治算法、回溯算法、动态规划、字符串匹配算法</b>。
