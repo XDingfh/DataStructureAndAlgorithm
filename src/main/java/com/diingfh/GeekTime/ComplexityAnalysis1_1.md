@@ -27,7 +27,7 @@ T(n) ，它表示代码执行的时间；n 表示数据规模的大小；f(n) �
  &nbsp; &nbsp;4）多个规模求加法：比如方法有两个参数控制两个循环的次数，那么这时就取二者复杂度相</br>
   </br>
 几种常见时间复杂度实例分析</br>
-![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/201.png)
+![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/Analysis1.png)
 
 对于罗列的复杂度量级，我们可以分为两类，多项式量级和非多项式量级。其中非多项式量级只有两个：O(2^n) 和 O(n!).</br>
 多项式：随着数据规模的增长，算法的执行时间和空间占用，按照多项式的比例增长。包括，
@@ -42,7 +42,7 @@ O(1)（常数阶）、O(logn)（对数阶）、O(n)（线性阶）、O(nlogn)（
 内容小结.</br>
 复杂度也叫渐进复杂度，包括时间复杂度和空间复杂度，用来分析算法执行效率和数据规模之间的增长关系，可以粗略地表示，越高阶复杂度的算法，执行效率越低。</br>
 </br>
-![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/202.png)
+![image](https://github.com/XDingfh/DataStructureAndAlgorithm/blob/master/src/main/resources/images/GeekTime/Analysis2.png)
 
 
 
